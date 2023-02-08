@@ -2,17 +2,21 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-lins-118540176/)
 
+
+##
+
+
 ### SOBRE MIM:
 
 ##### - Programadora Backend Java
 ##### - Formada em Técnico de manutenção e suporte de computadores
 ##### - Estudante de Análise e Desenvolvimento De Sistemas 
 
-## 
+#### - Trabalho voluntário no espaço da diversidade Aliança do bem
 
-#### - Trabalho voluntário no [![Linkedin]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/espaco.da.diversidade/)
+[![Linkedin]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/espaco.da.diversidade/)
 
-![CSetChip GitHub stats](https://github-readme-stats.vercel.app/api?username=CSetChip&show_icons=true&theme=merko)
+##
 
 ### Tecnologias do meu coração 💻 💕
 
@@ -21,5 +25,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostegresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+##
+
+![CSetChip GitHub stats](https://github-readme-stats.vercel.app/api?username=CSetChip&show_icons=true&theme=merko)
 
 
