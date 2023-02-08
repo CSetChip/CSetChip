@@ -8,6 +8,10 @@
 ##### - Formada em Técnico de manutenção e suporte de computadores
 ##### - Estudante de Análise e Desenvolvimento De Sistemas 
 
+## 
+
+#### - Trabalho voluntário no [![Linkedin]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/espaco.da.diversidade/)
+
 ![CSetChip GitHub stats](https://github-readme-stats.vercel.app/api?username=CSetChip&show_icons=true&theme=merko)
 
 ### Tecnologias do meu coração 💻 💕
