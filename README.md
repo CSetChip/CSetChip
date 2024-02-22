@@ -10,11 +10,7 @@
 ##### - Formada em Técnico de manutenção e suporte de computadores
 ##### - Estudante de Análise e Desenvolvimento De Sistemas 
 
-#### - Trabalho voluntário no espaço da diversidade Aliança do bem
-### Instagram da Aliança Do Bem 💕:
-[![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/espaco.da.diversidade/)
-
-##
+#### - Trabalho voluntário no espaço da diversidade Aliança do bem em Monteiro PB
 
 ### Tecnologias do meu coração 💻 💕
 
